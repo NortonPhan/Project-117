@@ -1,0 +1,28 @@
+body{
+    background-color: chocolate;
+}
+#score{
+    font-size: 25px;
+    margin: left;
+}
+#timer{
+    font-size: 25px;
+    
+    margin:right;
+}
+#sketch{
+    color:cyan;
+    font-size:20px;
+}
+p{
+    font-size: 19px;
+    
+}
+h1{
+    background-color: yellowgreen;
+}
+
+#show_sketch{
+    width: 240px;
+    font-size: 30px;
+}
